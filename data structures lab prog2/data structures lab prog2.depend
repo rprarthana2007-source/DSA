@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1790244129 source:c:\users\student.aimllab-056\desktop\1ga25ad064\data structures lab prog2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
